@@ -1,0 +1,3 @@
+/home/prototipe/Documents/EPCC/Tercer Semestre/CC2/TIF_actualizado/build/CMakeFiles/TuProyecto.dir
+/home/prototipe/Documents/EPCC/Tercer Semestre/CC2/TIF_actualizado/build/CMakeFiles/edit_cache.dir
+/home/prototipe/Documents/EPCC/Tercer Semestre/CC2/TIF_actualizado/build/CMakeFiles/rebuild_cache.dir
